@@ -1,0 +1,5 @@
+haroon 10
+haza 20
+ahed 30
+usaa 4
+hamza 40
